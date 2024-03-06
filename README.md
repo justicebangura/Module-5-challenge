@@ -1,11 +1,30 @@
-# Module-5-challenge
+# Financial Planner
 
-Please find the Financial Planner challenge in the starter code folder, this python script contains:
+![Financial Planner](https://pix4free.org/assets/library/2021-08-18/originals/financial-planner.jpg)
 
-A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
+## Introduction
 
-A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
+Welcome to the Financial Planner! This Jupyter Notebook contains two powerful financial tools designed to help you plan for the future:
 
-**Note:** There was an error with the calc_cumulative_return function in line 117 and the summarize_cumulative_return function of the original MCForcastTools.py, it took a while but I searched stack overflow for the answer, and I used the correct function code from the online live class session to fix it.
+### Emergency Fund Planner
+Visualize your current savings and determine if you have enough reserves for emergencies.
 
-Thank You!
+### Retirement Planner
+Forecast the performance of your retirement portfolio over the next 30 years using Monte Carlo simulations with historical price data fetched from the Alpaca API.
+
+## Included Files
+
+- `Financial_Planner.ipynb`: Jupyter Notebook containing the financial planners.
+- `MCForecastTools.py`: Python script for performing Monte Carlo simulations.
+
+## My Analysis
+
+After analyzing the data, here are some key insights:
+
+- The portfolio has shown positive growth 95% of the time.
+
+Feel free to explore the notebook and start planning your financial future today!
+
+
+
+
